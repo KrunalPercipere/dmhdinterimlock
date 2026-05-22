@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Application Details
 |               |
 | ------------- |
@@ -41,3 +42,7 @@ Deal Memo Interim Lock
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
 
+=======
+# dmhdinterimlock
+Deal Memo Interim Lock
+>>>>>>> f07954f72afa35be26fb90edcc22a9ddbdc687eb
